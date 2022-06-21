@@ -349,7 +349,7 @@ section {
   width: 10%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 5%;
+  width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .tw {
   width: 100%;
@@ -359,6 +359,9 @@ section {
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .swift {
   width: 10%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mL {
+  width: 50%;
 }
 
 
